@@ -10,6 +10,13 @@
     "package",
     "tools"
   ],
+  "samples": [
+    {
+      "displayName": "Celestial Orbit Example",  
+      "description": "A basic scene and scripts demonstrating how to use the orbit system.", 
+      "path": "Samples/CelestialOrbitSystem"        
+    }
+  ],
   "author": {
     "name": "Shuaikx",
     "email": "shuaikx828@gmail.com",
