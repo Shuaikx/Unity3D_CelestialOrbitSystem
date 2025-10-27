@@ -1,0 +1,18 @@
+{
+  "name": "com.shuaikx.celestial-orbit-system",
+  "version": "1.0.0",
+  "displayName": "KX's Celestial Orbit System",
+  "description": "A simple and efficient celestial orbit system for Unity projects.",
+  "unity": "6000.0",
+  "unityRelease": "60f1",
+  "keywords": [
+    "unity",
+    "package",
+    "tools"
+  ],
+  "author": {
+    "name": "Shuaikx",
+    "email": "shuaikx828@gmail.com",
+    "url": "https://shuaikx.github.io"
+  }
+}
